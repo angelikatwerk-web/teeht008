@@ -1,0 +1,42 @@
+[
+  {
+    "id": "dbk-salt-30",
+    "name": "ยาสีฟัน รสซอลต์ เล็ก 30ml",
+    "mood": "salt",
+    "type": "toothpaste",
+    "size": "30ml",
+    "price": 35,
+    "image": "images/fresh.jpg",
+    "description": "ยาสีฟันกลิ่นเกลือทะเลอ่อนๆ สะอาดนุ่มนวล ขนาดพกพา เหมาะกับการเดินทาง"
+  },
+  {
+    "id": "dbk-salt-100",
+    "name": "ยาสีฟัน รสซอลต์ ใหญ่ 100ml",
+    "mood": "salt",
+    "type": "toothpaste",
+    "size": "100ml",
+    "price": 109,
+    "image": "images/fresh.jpg",
+    "description": "ยาสีฟันกลิ่นเกลือทะเลอ่อนๆ สะอาดนุ่มนวล ขนาดใหญ่สำหรับใช้ที่บ้าน"
+  },
+  {
+    "id": "dbk-mint-30",
+    "name": "ยาสีฟัน รสมิ้นต์ เล็ก 30ml",
+    "mood": "mint",
+    "type": "toothpaste",
+    "size": "30ml",
+    "price": 35,
+    "image": "images/fresh.jpg",
+    "description": "ยาสีฟันรสมิ้นต์เย็นสดชื่น ลมหายใจหอมสะอาด ขนาดพกพา เหมาะกับการเดินทาง"
+  },
+  {
+    "id": "dbk-mint-100",
+    "name": "ยาสีฟัน รสมิ้นต์ ใหญ่ 100ml",
+    "mood": "mint",
+    "type": "toothpaste",
+    "size": "100ml",
+    "price": 109,
+    "image": "images/fresh.jpg",
+    "description": "ยาสีฟันรสมิ้นต์เย็นสดชื่น ลมหายใจหอมสะอาด ขนาดใหญ่สำหรับใช้ที่บ้าน"
+  }
+]
