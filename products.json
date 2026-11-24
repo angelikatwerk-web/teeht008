@@ -6,7 +6,7 @@
     "type": "toothpaste",
     "size": "30ml",
     "price": 35,
-    "image": "salt.jpg",
+    "image": "salt.jpeg",
     "description": "ยาสีฟันกลิ่นเกลือทะเลอ่อนๆ สะอาดนุ่มนวล ขนาดพกพา เหมาะกับการเดินทาง"
   },
   {
@@ -16,7 +16,7 @@
     "type": "toothpaste",
     "size": "100ml",
     "price": 109,
-    "image": "salt.jpg",
+    "image": "salt.jpeg",
     "description": "ยาสีฟันกลิ่นเกลือทะเลอ่อนๆ สะอาดนุ่มนวล ขนาดใหญ่สำหรับใช้ที่บ้าน"
   },
   {
@@ -26,7 +26,7 @@
     "type": "toothpaste",
     "size": "30ml",
     "price": 35,
-    "image": "mint.jpg",
+    "image": "mint.jpeg",
     "description": "ยาสีฟันรสมิ้นต์เย็นสดชื่น ลมหายใจหอมสะอาด ขนาดพกพา เหมาะกับการเดินทาง"
   },
   {
@@ -36,7 +36,7 @@
     "type": "toothpaste",
     "size": "100ml",
     "price": 109,
-    "image": "mint.jpg",
+    "image": "mint.jpeg",
     "description": "ยาสีฟันรสมิ้นต์เย็นสดชื่น ลมหายใจหอมสะอาด ขนาดใหญ่สำหรับใช้ที่บ้าน"
   }
 ]
